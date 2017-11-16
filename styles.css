@@ -1,0 +1,20 @@
+p {
+	color: purple;
+}
+
+.intro {
+	color: purple;
+}
+.test {
+	background-image: url("https://media1.tenor.com/images/501d2cd0504ec077e0ea1d4bf8ce94b7/tenor.gif?itemid=4494679");
+	height: 700px;
+	widows: 700px;
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+#link {
+	text-decoration: none;
+	display: inline-block;
+	color: black;
+}
